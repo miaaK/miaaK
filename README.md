@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a <b>front-end developer</b> skilled in web. :rocket:<br/>
+I'm a <b>web developer</b> who is currently looking for a job. :rocket:<br/>
 
 #### 🔨 Skills
 <p>
