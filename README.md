@@ -27,8 +27,13 @@ I'm a <b>Full stack developer</b> who is currently looking for a job. :rocket:<b
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 </p>
 
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miaaK&show_icons=true&theme=nightowl) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaaK&layout=compact&theme=nightowl) -->
+
+
 <!--##### 📫 How to reach me
-<a href="mailto:shwaa826@gmail.com" target="_blank"><img src="https://img.shields.io/badge/shwaa826@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" style="vertical-align: middle"/> </a><br/>-->
+<a href="mailto:shwakim99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/shwaa826@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" style="vertical-align: middle"/> </a><br/>-->
 
 <!--
 **miaaK/miaaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
