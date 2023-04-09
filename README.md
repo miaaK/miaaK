@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a <b>Full stack developer</b> who is currently looking for a job. :rocket:<br/>
+I'm a <b>Web developer</b> who is currently looking for a job. :rocket:<br/>
 
 #### 🔨 Skills
 <p>
