@@ -35,7 +35,7 @@ I'm a <b>Web developer</b> who is currently looking for a job. <br/><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaaK&show_icons=true&theme=nightowl" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaaK&layout=compact&theme=nightowl" width="35%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaaK&layout=compact&theme=nightowl" width="42%" />
 </a>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miaaK&show_icons=true&theme=nightowl) -->
