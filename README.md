@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🎬🎧✈️&fontSize=50&fontAlign=82)
+
 ### Hi there 👋
 
-I'm a <b>Web developer</b> who is currently looking for a job. :rocket:<br/>
+I'm a <b>Web developer</b> who is currently looking for a job. <br/><br/>
 
 #### 🔨 Skills
 <p>
@@ -26,10 +28,18 @@ I'm a <b>Web developer</b> who is currently looking for a job. :rocket:<br/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 </p>
+<br/>
+<br/>
 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaaK&show_icons=true&theme=nightowl" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaaK&layout=compact&theme=nightowl" width="35%" />
+</a>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miaaK&show_icons=true&theme=nightowl) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaaK&layout=compact&theme=nightowl) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaaK&layout=compact&theme=nightowl ) -->
 
 
 <!--##### 📫 How to reach me
